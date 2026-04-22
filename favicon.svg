@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Orange body -->
+  <circle cx="16" cy="18" r="13" fill="#F97316"/>
+  <!-- Shading highlight -->
+  <ellipse cx="12" cy="13" rx="4" ry="3" fill="#FBB97E" opacity="0.5"/>
+  <!-- Stem -->
+  <rect x="15" y="3" width="2.5" height="5" rx="1.2" fill="#5D3A1A"/>
+  <!-- Leaf -->
+  <path d="M17 6 Q22 2 24 7 Q20 9 17 6Z" fill="#22C55E"/>
+</svg>
